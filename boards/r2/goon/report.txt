@@ -1,0 +1,25 @@
+Info: Output directory 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon' created.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Cu.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Cu.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Paste.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Paste.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Mask.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Mask.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-job.gbrjob'.
+Info: Done.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Cu.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Cu.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Paste.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Paste.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-F_Mask.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-B_Mask.gbr'.
+Plotted to 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\roopa\Desktop\Basic Computer\airbrakes\goon\airbrakes-job.gbrjob'.
+Info: Done.
+Info: Done.
+Info: Done.

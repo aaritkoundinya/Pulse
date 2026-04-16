@@ -1,0 +1,11 @@
+# macOS / Windows clutter
+.DS_Store
+Thumbs.db
+
+# Editor directories
+.vscode/
+.idea/
+
+# Shell/editor temp files
+*~
+*.swp

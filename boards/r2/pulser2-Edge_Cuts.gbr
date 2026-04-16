@@ -1,0 +1,28 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,9.0.5*%
+%TF.CreationDate,2025-12-15T13:26:07-05:00*%
+%TF.ProjectId,airbrakes,61697262-7261-46b6-9573-2e6b69636164,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Profile,NP*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW 9.0.5) date 2025-12-15 13:26:07*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%TA.AperFunction,Profile*%
+%ADD10C,0.050000*%
+%TD*%
+G04 APERTURE END LIST*
+D10*
+X137668000Y-101854000D02*
+G75*
+G02*
+X77724000Y-101854000I-29972000J0D01*
+G01*
+X77724000Y-101854000D02*
+G75*
+G02*
+X137668000Y-101854000I29972000J0D01*
+G01*
+M02*

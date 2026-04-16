@@ -1,0 +1,20 @@
+# KiCad local state (machine-specific)
+*.kicad_prl
+fp-info-cache
+*.lck
+
+# KiCad autosave / backup output
+_autosave-*.kicad_sch
+*-backups/
+
+# Common generated output folders (safe to regenerate)
+gerbers/
+plots/
+manufacturing/
+assembly/
+fab/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+*~
